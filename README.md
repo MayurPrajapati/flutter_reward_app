@@ -1,4 +1,4 @@
-# Flutter Reward App for Medical Purposes 
+# Flutter Reward App for Medical Purposes with Animation & Scratch Card 
 
 Rewards app built with Firebase + Flutter
 
