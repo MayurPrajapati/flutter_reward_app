@@ -1,6 +1,13 @@
-# Flutter Reward App for Medical Purposes with Animation & Scratch Card 
-
+# Flutter Reward App 
 Rewards app built with Firebase + Flutter
+
+**Features:**
+  - Animation
+  - Scratch Card
+  - Firebase Authentication
+  - Rewards History
+  - Profile
+  - About
 
 ## Demo
 
